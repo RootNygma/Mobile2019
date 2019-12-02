@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">الإعدادات</string>
+    <string name="app_name">طلبي الأول</string>
+    <string name="button_send">إرسال</string>
+    <string name="edit_message">أدخل رسالة</string>
+</resources>
