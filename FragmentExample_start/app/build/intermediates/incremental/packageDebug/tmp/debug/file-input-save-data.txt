@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 04 12:03:44 GMT 2019
+0.baseType=DIRECTORY
+0.base=/media/nygma/Abdullah/Mobile 2019/GitBambey2019/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
